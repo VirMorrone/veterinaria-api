@@ -1,0 +1,11 @@
+[{
+    "nombre":"Equilibrio para gatos",
+    "precio": 1400,
+    "imagen":"img/equilibrio.jpg"
+},
+{
+    "nombre":"Caty para gatos",
+    "precio": 1800,
+    "imagen":"img/caty.jpg"
+}
+]
