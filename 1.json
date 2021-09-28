@@ -1,3 +1,5 @@
-[{"nombre":"autos",
-  "descripcion":"no se me ocurre"}
+[{"imagen":"img/1.jpg",
+  "descripcion":"Equilibrio es un alimento balanceado para gatos adultos",
+ "relacionados":[2],
+ "costo":1300}
 ]
