@@ -5,21 +5,21 @@
         "count": 2,
         "unitCost": 1400,
         "currency": "UYU",
-        "src": "img/1.jpg"
+        "src": "img/1.png"
       },
       {
         "name": "Pedigree para cachorros",
         "count": 1,
         "unitCost": 2400,
         "currency": "UYU",
-        "src": "img/2.jpg"
+        "src": "img/2.png"
       },
       {
         "name": "Torre rascador",
         "count": 1,
         "unitCost": 3500,
         "currency": "UYU",
-        "src": "img/3.jpg"
+        "src": "img/3.png"
       }
     ]
   }
