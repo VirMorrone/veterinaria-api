@@ -17,8 +17,8 @@
       {
         "name": "Torre rascador",
         "count": 1,
-        "unitCost": 3500,
-        "currency": "UYU",
+        "unitCost": 40,
+        "currency": "USD",
         "src": "img/3.png"
       }
     ]
